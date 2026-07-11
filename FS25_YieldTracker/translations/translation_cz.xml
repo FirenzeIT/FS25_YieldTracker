@@ -2,6 +2,8 @@
 <l10n>
     <texts>
         <text name="yt_modName" text="Sledování výnosů"/>
+        <text name="yt_showAllFieldsBtnTxt" text="Zobrazit všechna pole"/>
+        <text name="yt_showOwnedFieldsBtnTxt" text="Zobrazit vlastní pole"/>
         <text name="yt_selectFieldLabel" text="Vyber pole"/>
         <text name="yt_selectCropLabel" text="Vyber plodinu"/>
         <text name="yt_overviewLabel" text="Přehled"/>

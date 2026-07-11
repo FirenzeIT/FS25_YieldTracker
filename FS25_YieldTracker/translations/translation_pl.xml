@@ -2,6 +2,8 @@
 <l10n>
     <texts>
         <text name="yt_modName" text="Śledzenie plonów"/>
+        <text name="yt_showAllFieldsBtnTxt" text="Pokaż wszystkie pola"/>
+        <text name="yt_showOwnedFieldsBtnTxt" text="Pokaż własne pola"/>
         <text name="yt_selectFieldLabel" text="Wybierz pole"/>
         <text name="yt_selectCropLabel" text="Wybierz uprawę"/>
         <text name="yt_overviewLabel" text="Przegląd"/>

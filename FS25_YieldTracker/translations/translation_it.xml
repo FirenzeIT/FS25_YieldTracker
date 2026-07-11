@@ -2,6 +2,8 @@
 <l10n>
     <texts>
         <text name="yt_modName" text="Monitoraggio della resa"/>
+        <text name="yt_showAllFieldsBtnTxt" text="Mostra tutti i campi"/>
+        <text name="yt_showOwnedFieldsBtnTxt" text="Mostra i campi posseduti"/>
         <text name="yt_selectFieldLabel" text="Seleziona campo"/>
         <text name="yt_selectCropLabel" text="Seleziona coltura"/>
         <text name="yt_overviewLabel" text="Panoramica"/>

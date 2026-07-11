@@ -2,6 +2,8 @@
 <l10n>
     <texts>
         <text name="yt_modName" text="Monitorização de Rendimento"/>
+        <text name="yt_showAllFieldsBtnTxt" text="Mostrar Todos os Campos"/>
+        <text name="yt_showOwnedFieldsBtnTxt" text="Mostrar Campos Próprios"/>
         <text name="yt_selectFieldLabel" text="Selecionar campo"/>
         <text name="yt_selectCropLabel" text="Selecionar Cultura"/>
         <text name="yt_overviewLabel" text="Visão Geral"/>

@@ -2,6 +2,8 @@
 <l10n>
     <texts>
         <text name="yt_modName" text="Ertrags-Tracker"/>
+        <text name="yt_showAllFieldsBtnTxt" text="Alle Felder anzeigen"/>
+        <text name="yt_showOwnedFieldsBtnTxt" text="Eigene Felder anzeigen"/>
         <text name="yt_selectFieldLabel" text="Feld auswählen"/>
         <text name="yt_selectCropLabel" text="Frucht Auswählen"/>
         <text name="yt_overviewLabel" text="Übersicht"/>

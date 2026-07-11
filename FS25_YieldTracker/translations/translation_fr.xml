@@ -2,6 +2,8 @@
 <l10n>
     <texts>
         <text name="yt_modName" text="Suivi Du Rendement"/>
+        <text name="yt_showAllFieldsBtnTxt" text="Afficher Tous Les Champs"/>
+        <text name="yt_showOwnedFieldsBtnTxt" text="Afficher Mes Champs"/>
         <text name="yt_selectFieldLabel" text="Sélectionner Champ"/>
         <text name="yt_selectCropLabel" text="Sélectionnez Recadrer"/>
         <text name="yt_overviewLabel" text="Aperçu"/>

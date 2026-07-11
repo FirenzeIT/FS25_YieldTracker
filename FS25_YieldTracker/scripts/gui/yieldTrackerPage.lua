@@ -56,15 +56,15 @@ function YieldTrackerPage:setupCustomButtons()
 
     self.showAllFieldButton = {
         inputAction = InputAction.MENU_ACTIVATE,
-        text = "Show Owned Fields",
+        text = self.i18n:getText("yt_showOwnedFieldsBtnTxt"),
         callback = function ()
             self.showingOwnedFields = not self.showingOwnedFields
 
             if self.showingOwnedFields then
-                self.showAllFieldButton.text = "Show All Fields"
-                self:onShowOwnedFieldList() -- Call your actual method
+                self.showAllFieldButton.text = self.i18n:getText("yt_showAllFieldsBtnTxt")
+                self:onShowOwnedFieldList()
             else
-                self.showAllFieldButton.text = "Show Owned Fields"
+                self.showAllFieldButton.text = self.i18n:getText("yt_showOwnedFieldsBtnTxt")
                 self:onShowAllFieldList()
             end
 

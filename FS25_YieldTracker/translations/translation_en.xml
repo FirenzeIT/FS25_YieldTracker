@@ -2,6 +2,8 @@
 <l10n>
     <texts>
         <text name="yt_modName" text="Yield Tracker"/>
+        <text name="yt_showAllFieldsBtnTxt" text="Show All Fields"/>
+        <text name="yt_showOwnedFieldsBtnTxt" text="Show Owned Fields"/>
         <text name="yt_selectFieldLabel" text="Select Field"/>
         <text name="yt_selectCropLabel" text="Select Crop"/>
         <text name="yt_overviewLabel" text="Overview"/>
