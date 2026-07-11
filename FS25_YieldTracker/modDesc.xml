@@ -1,11 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<modDesc descVersion="100">
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="110">
 <author>BitBarn Mods</author>
-<version>1.0.0.0</version>
+<version>1.0.0.2</version>
 <title>
 <en>Yield Tracker</en>
 <de>Ertrags-Tracker</de>
 <fr>Suivi Du Rendement</fr>
+<it>Monitoraggio Della Resa</it>
 </title>
 <description>
 <en>
@@ -132,7 +133,49 @@ Des questions ou des problèmes ?
 Signalez les bugs ou contribuez sur GitHub : https://github.com/BitBarn-Mods/FS25_YieldTracker
 ]]>
 </fr>
+<it>
+<![CDATA[
+Nota: questa mod attualmente supporta la modalità giocatore singolo solo su PC/Mac.
 
+Il monitoraggio della resa, ti aiuta a tenere traccia dei tuoi raccolti in diversi campi e anni. Registra le rese totali per coltura (tipo di riempimento), numero di campo e anno, così puoi monitorare facilmente le prestazioni della tua fattoria nel tempo.
+
+Funziona sia con i lavoratori IA che con i lavori a contratto.
+
+Tipi di riempimento supportati (19):
+- Orzo
+- Colza
+- Pula
+- Mais
+- Cotone
+- Erba (solo per pressa)
+- Fagiolini
+- Fieno (solo per pressa)
+- Riso a chicco lungo
+- Avena
+- Piselli
+- Patate
+- Riso
+- Sorgo
+- Soia
+- Spinaci
+- Paglia (solo per pressa)
+- Girasoli
+- Grano
+
+Changelog Versione 1.0.0.1:
+* Aggiunta traduzione in polacco
+* Aggiunta traduzione in ceco
+* Aggiunta traduzione in portoghese
+* Aggiunta traduzione in portoghese brasiliano
+* Corretti errori di traduzione in tedesco
+
+Changelog Versione 1.0.0.2:
+* Aggiunta traduzione in italiano
+
+Feedback o problemi?
+Segnala bug o contribuisci su GitHub: https://github.com/BitBarn-Mods/FS25_YieldTracker
+]]>
+</it>
 </description>
 
 <iconFilename>icon_YieldTracker.dds</iconFilename>
