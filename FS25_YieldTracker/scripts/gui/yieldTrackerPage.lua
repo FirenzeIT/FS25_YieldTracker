@@ -447,8 +447,10 @@ function YieldTrackerPage:setGraphData()
     local yieldRange = math.max(1, maxYield - minYield)
 
     local numTicks = displayMaxYear - displayMinYear + 1
-    local totalGraphWidth = 0.42
+    local totalGraphWidth = barGraph.size[1] * 0.9
     local spacing = totalGraphWidth / math.max(1, numTicks - 1)
+    local candleWidth = spacing * 0.45
+    local candleOffset = spacing * 0.84
 
 
 
@@ -473,8 +475,8 @@ function YieldTrackerPage:setGraphData()
                 -- heightRatio = math.sqrt(heightRatio) -- apply easing
                 local candleHeight = minHeight + heightRatio * (0.27 - minHeight)
 
-                candleClone:setSize(0.01, candleHeight)
-                candleClone:setPosition(tickX + 0.0185, 0)
+                candleClone:setSize(candleWidth, candleHeight)
+                candleClone:setPosition(tickX + candleOffset, 0)
                 candleClone:setVisible(true)
             end
         end
