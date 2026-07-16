@@ -227,7 +227,7 @@ function YieldTracker:getActiveFillType(primary, secondary, fallback)
         return primary
     elseif secondary and secondary ~= FillType.UNKNOWN then
         return secondary
-    elseif fallback and fallback ~= FillType.Unknow then
+    elseif fallback and fallback ~= FillType.UNKNOWN then
         return fallback -- Field fillType
     end
     return FillType.UNKNOWN
